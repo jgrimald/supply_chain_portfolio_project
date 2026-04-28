@@ -46,18 +46,22 @@ The Power BI report contains five pages, each addressing a distinct strategic qu
 
 **Page 4 - Logistics Analysis**
 
-**Key finding:** A cost-speed tradeoff exists across carriers. Carrier B delivers the fastest shipping times at premium cost; Carrier A is slower but significantly cheaper. Route A carries the highest logistics burden while Route C is the most efficient. Current operations are disproportionately reliant on Carrier B, reflecting a bias toward speed over cost efficiency. The recommended approach is to align carrier selection with route-level need — reserving Carrier B for time-sensitive deliveries and shifting high-burden, low-urgency routes to lower-cost carriers.
+**Key finding:** A cost-speed tradeoff exists across carriers. Carrier B delivers the fastest shipping times at premium cost; Carrier A is slower but significantly cheaper. Route A carries the highest logistics burden while Route C is the most efficient. Current operations are disproportionately reliant on Carrier B, reflecting a bias toward speed over cost efficiency. The recommended approach is to align carrier selection with route-level need - reserving Carrier B for time-sensitive deliveries and shifting high-burden, low-urgency routes to lower-cost carriers.
 
 **Page 5 - Product Type Strategy**
 
-**Key finding:** Clear segmentation exists between volume-driven and margin-driven categories. Skincare generates the majority of total profit through high volume and low unit cost. Cosmetics deliver the highest profit per unit and the lowest defect rates — the strongest margin efficiency in the portfolio. Haircare underperforms on both margin and quality. The optimal strategy is to maintain skincare as the volume engine, scale cosmetics to capture higher unit margins, and reduce reliance on haircare to improve overall portfolio profitability.
+**Key finding:** Clear segmentation exists between volume-driven and margin-driven categories. Skincare generates the majority of total profit through high volume and low unit cost. Cosmetics deliver the highest profit per unit and the lowest defect rates - the strongest margin efficiency in the portfolio. Haircare underperforms on both margin and quality. The optimal strategy is to maintain skincare as the volume engine, scale cosmetics to capture higher unit margins, and reduce reliance on haircare to improve overall portfolio profitability.
 
 **Strategic Recommendations**
 Based on the full analysis, five priorities emerge:
 
 **Concentrate SKU investment on high-margin haircare SKUs** (SKU2, SKU51, SKU24, SKU79) - these have proven unit economics and room to scale
+
 **Rationalize underperforming SKUs with moderate-to-high volume but weak margins** - they dilute overall profitability without proportional revenue contribution
+
 **Shift supplier concentration toward Supplier 1 and Supplier 2** - reduce or eliminate exposure to Suppliers 3 and 5, which combine high defect rates with low profit contribution
+
 **Rebalance logistics carrier usage** - move appropriate routes from Carrier B to Carrier A where delivery speed is not a constraint, reducing logistics burden on high-cost routes
+
 **Scale cosmetics as a strategic growth category** - superior unit economics and defect rates make it the highest-quality, highest-margin segment in the portfolio
 
